@@ -6,7 +6,7 @@ public class Gerente extends Funcionario {
   }
 
   // sobre-escrita do metodo que permite exibir informaçoes no console
-  // (adicionando os novos valores)
+  // (adicionando os novos valores)  
   @Override
   public void exibirDados() {
     super.exibirDados();
